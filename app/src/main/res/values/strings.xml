@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">BMI</string>
+    <string name="about_title">About Me</string>
+    <string name="mass_label">Weight</string>
+    <string name="height_label">Height</string>
+    <string name="compute_label">Compute</string>
+    <string name="presentation_label">Your BMI is</string>
+    <string name="my_img_description">This is my face.</string>
+    <string name="select_locale_label">UK units</string>
+
+    <string name="about_me">
+        Marek, 20 years young, student of IT at Wroclaw University of Science and Technology.
+        Currently working as a Game Programmer at Techland.
+        He does skateboarding in his free time, but he never has free time.
+    </string>
+
+    <string name="main_preferences_key">main_preferences</string>
+    <string name="weight_preference_key">wght_preference</string>
+    <string name="height_preference_key">hght_preference</string>
+    <string name="locale_preference_key">locale_preference</string>
+
+    <string name="eu_weight_unit">(kg)</string>
+    <string name="eu_height_unit">(cm)</string>
+    <string name="uk_weight_unit">(lb)</string>
+    <string name="uk_height_unit">(in)</string>
+</resources>
